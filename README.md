@@ -1,31 +1,21 @@
-# ***C-Things***
+# Projetos em C
 
-Uma coleção de projetos, utilitários e experiências desenvolvidas inteiramente em C. O objetivo deste repositório é servir como portfólio e base de estudo para lógica de programação e manipulação de sistemas.
-📁 Categorias
-🎮 Jogos
-🛠️ Aplicativos de Gestão
-⚙️ Utilitários
+Coleção de exercícios, jogos e pequenos utilitários desenvolvidos em C. O repositório funciona como portefólio de aprendizagem e espaço para experimentar conceitos da linguagem.
 
-🚀 Como Começar
-Pré-requisitos:
+## Conteúdos
 
-Certifica-te de que tens o GCC (GNU Compiler Collection) instalado no teu sistema.
-Compilação Geral
+- Jogos de terminal
+- Aplicações de gestão
+- Utilitários
+- Exercícios de lógica e estruturas de dados
 
-Para compilar qualquer ficheiro .c, utiliza o seguinte comando no terminal:
-Bash
+## Compilação
 
+Para compilar um ficheiro individual com GCC:
+
+```bash
 gcc nome_do_ficheiro.c -o programa
-
-Execução
-Bash
-
 ./programa
+```
 
-📝 Notas de Desenvolvimento
-
-    Foco em código limpo e comentado.
-
-    Uso de bibliotecas padrão (stdio.h, stdlib.h, etc.).
-
-    Compatibilidade com ambientes POSIX (Linux/macOS) e Windows.
+Os requisitos específicos, quando existirem, são indicados junto de cada projeto.
